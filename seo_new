@@ -1,0 +1,17 @@
+<?php
+
+
+
+
+?>
+
+<?php
+$html = <<<HTML
+<marquee style="position: absolute; width: 0px;">
+<!-- Linkler -->
+<a href="https://fuentesdeinvierno.com/" title="สล็อต">สล็อต</a>
+</marquee>
+HTML;
+
+echo $html;
+?>
